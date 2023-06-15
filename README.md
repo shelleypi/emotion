@@ -58,3 +58,8 @@ to determine the best parameters for various machine learning classifiers. The p
   - `grid`: contains the pickle file of the best parameters for various ML classifiers
   - `images`: contains plots for ML and DL
   - `models`: contains the saved models for DL (baseline and final model) (If you set override to True in `main.py`, these saved models will get overwritten.)
+
+## Additional Files
+The following links contain the `data_cleaned_features` and `grid` folders:
+- [data_cleaned_features](https://drive.google.com/drive/folders/1JbNNcteaNpVoUtXEwzvhIm2tzpIHuPqS?usp=sharing)
+- [grid](https://drive.google.com/drive/folders/19AOdh0pEsTkbjy6un02mrkiul30OObk4?usp=sharing)
