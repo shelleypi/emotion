@@ -63,3 +63,7 @@ to determine the best parameters for various machine learning classifiers. The p
 The following links contain the `data_cleaned_features` and `grid` folders:
 - [data_cleaned_features](https://drive.google.com/drive/folders/1JbNNcteaNpVoUtXEwzvhIm2tzpIHuPqS?usp=sharing)
 - [grid](https://drive.google.com/drive/folders/19AOdh0pEsTkbjy6un02mrkiul30OObk4?usp=sharing)
+
+## Future Work
+- Perform deep learning hyperparameter optimization through random search and bayesian optimization.
+- Incorporate other features available in `utils.py`.
